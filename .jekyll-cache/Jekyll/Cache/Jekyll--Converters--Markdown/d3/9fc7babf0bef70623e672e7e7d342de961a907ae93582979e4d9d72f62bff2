@@ -1,0 +1,103 @@
+I"�<h1 style="padding-top: 100px; padding-bottom: 30px; ">蛇ゲーム</h1>
+<div class="main_content">
+  <a href="https://scratch.mit.edu/projects/880498565/" target="_blank" rel="noopener">
+    <img class="top-img lazyload" loading="lazy" alt="サムネイル画像" style="margin-bottom: 10px; border-radius: 6px;width: 100%;" src="/img/2023/exhibition/5.jpg" />
+  </a>
+  <p>
+    作者: みのる
+    <small>(CoderDojo <a href="https://kichijojijp.wixsite.com/coderdojo">吉祥寺</a>)</small>
+  </p>
+
+  <div class="contents">
+    <div class="box">
+      <h5>作品の説明</h5>
+      <p>一から作りました。得点を変数ではなくスプライトで表示させました。</p>
+    </div>
+
+    <div class="box">
+      <h5>参考・参照元、工夫したところ</h5>
+      <p>オリジナル作品です。</p>
+    </div>
+  </div>
+</div>
+
+<div>
+  <a href="https://scratch.mit.edu/projects/880498565/" target="_blank" rel="noopener" class="button">
+    <i class="fas fa-scroll"></i>
+    作品を見る
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=蛇ゲーム+%7C+ニンジャ大博覧会&amp;hashtags=DojoConJapan,CoderDojo&amp;url=http://0.0.0.0:4000/expo/5&amp;lang=jp&amp;related=DojoConJapan" target="_blank" rel="noopener" class="button" style="margin: 50px auto;">
+    <i class="fab fa-twitter"></i>
+    作品を共有する
+  </a>
+  <a href="https://www.facebook.com/share.php?u=http://0.0.0.0:4000/expo/5" target="_blank" rel="noopener" class="button">
+    <i class="fab fa-facebook"></i>
+    作品を共有する
+  </a>
+</div>
+
+<div class="content main_content">
+  <a href="/exhibition" class="back-to-top text-left" style="margin: 50px auto;">
+    <i class="fas fa-chevron-circle-left"></i>
+    作品一覧に戻る
+  </a>
+</div>
+
+<div class="article-navigation" style="margin-bottom: 100px;">
+  <a href="/expo/4" title="簡単なロブロックスオビー" style="margin-right: 20px;">
+    <i class="fas fa-arrow-left"></i>
+    前の作品へ<br />
+    <span style="font-size: 8px;">簡単なロブロックスオビ...</span>
+  </a>
+  <a href="/expo/6" title="シューティングゲーム（はやと）8.9" style="margin-left: 20px;">
+    次の作品へ
+    <i class="fas fa-arrow-right"></i><br />
+    <span style="font-size: 8px;">シューティングゲーム（...</span>
+  </a>
+</div>
+
+<style type="text/css">
+  /* 作品説明などのスタイル */
+  .box { width:auto; margin: 50px auto 30px; }
+  .box h5 { text-align: left; }
+  .box p  { text-align: left; }
+  .contents {
+    width:   auto;
+    margin:  0 auto;
+    padding: 5px;
+  }
+  .main_content a { color: #7e2639; }
+  .main_content{
+    display: block;
+    margin: 0 auto 12px;
+    text-align: center;
+    text-decoration: none;
+    width: 40%;
+  }
+  @media screen and (max-width: 1000px) {
+    .main_content {
+      padding: 8px 0;
+      width: 80%;
+    }
+  }
+
+  /* 前後の作品へのナビゲーションバー */
+  .article-navigation {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .article-navigation a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7e2639;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 0 10px;
+  }
+  .article-navigation a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+:ET
